@@ -1,0 +1,9 @@
+git commands
+- init
+- status
+- add filename
+- add .
+- commit
+- log
+- log --oneline
+- dif id..id

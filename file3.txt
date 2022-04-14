@@ -1,0 +1,6 @@
+show
+checkout
+reset
+clean
+gitignore
+clone
