@@ -7,3 +7,4 @@ git commands
 - log
 - log --oneline
 - dif id..id
+- show
